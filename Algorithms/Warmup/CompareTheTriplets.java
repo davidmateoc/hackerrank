@@ -2,8 +2,6 @@
  * @author https://github.com/davidmateoc
  * @problem https://www.hackerrank.com/challenges/compare-the-triplets
  */
-package Warmup;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

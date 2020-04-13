@@ -2,8 +2,6 @@
  * @author https://github.com/davidmateoc
  * @problem https://www.hackerrank.com/challenges/a-very-big-sum
  */
-package Warmup;
-
 public class AVeryBigSum {
     static long aVeryBigSum(long[] ar) {
         long sum = 0;

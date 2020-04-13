@@ -2,8 +2,6 @@
  * @author https://github.com/davidmateoc
  * @problem https://www.hackerrank.com/challenges/simple-array-sum
  */
-package Warmup;
-
 public class SimpleArraySum {
     private static int simpleArraySum(int[] ar) {
         int sum = 0;

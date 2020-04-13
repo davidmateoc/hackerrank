@@ -2,8 +2,6 @@
  * @author https://github.com/davidmateoc
  * @problem https://www.hackerrank.com/challenges/solve-me-first
  */
-package Warmup;
-
 import java.util.Scanner;
 
 public class SolveMeFirst {
