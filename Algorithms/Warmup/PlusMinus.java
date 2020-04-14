@@ -1,6 +1,6 @@
 /**
  * @author https://github.com/davidmateoc
- * @problem https://www.hackerrank.com/challenges/diagonal-difference
+ * @problem https://www.hackerrank.com/challenges/plus-minus
  */
 public class PlusMinus {
     static void plusMinus(int[] arr) {
