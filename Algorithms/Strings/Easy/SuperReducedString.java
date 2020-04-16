@@ -1,3 +1,7 @@
+/**
+ * @author https://github.com/davidmateoc
+ * @problem https://www.hackerrank.com/challenges/reduced-string
+ */
 package Easy;
 
 public class SuperReducedString {
@@ -15,7 +19,6 @@ public class SuperReducedString {
             return s;
         }
     }
-
 
     public static void main(String[] args) {
 
